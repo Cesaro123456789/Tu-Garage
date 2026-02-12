@@ -4,11 +4,11 @@ Proyecto de maquetación de una plataforma de intermediación para la compra y v
 
 ## 🛠 Tecnologías
 
-HTML5 (Estructura semántica)
+-HTML5 (Estructura semántica)
 
-CSS3 (Diseño responsivo y personalizado)
+-CSS3 (Diseño responsivo y personalizado)
 
-JavaScript (Lógica de filtrado de categorías e integración con WhatsApp)
+-JavaScript (Lógica de filtrado de categorías e integración con WhatsApp)
 
 ## 📌 Descripción
 
